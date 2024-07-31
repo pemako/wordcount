@@ -1,0 +1,13 @@
+*wordcount.txt*
+
+wordcount.vim - A simple Vim plugin to count words in the current buffer.
+
+To use this plugin, simply run the command:
+
+    :WordCount
+
+This will display the number of words in the current buffer.
+
+-------------------------------------------------------------------------------
+vim:tw=78:ts=8:ft=help:norl:
+
